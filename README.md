@@ -13,4 +13,8 @@ So kann man die Überschrift hinzufügen:
 Wenn den Text eingerichtet wird:
 
 ![image](https://github.com/its-942628/LaTex-Tables/assets/153672630/dc54e91d-2b94-4cfa-83fb-d19c4ad5cb6b)
- 
+
+ Die erste Tabelle mit Färbung erstellt:
+
+ ![image](https://github.com/its-942628/LaTex-Tables/assets/153672630/a8b1a4f1-4a77-4f6e-9e85-0bf01a502805)
+
