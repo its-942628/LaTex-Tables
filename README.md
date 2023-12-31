@@ -10,3 +10,7 @@ So kann man die Überschrift hinzufügen:
 
 ![image](https://github.com/its-942628/LaTex-Tables/assets/153672630/6455c9a2-0a2e-4970-a82d-ab91449bc660)
 
+Wenn den Text eingerichtet wird:
+
+![image](https://github.com/its-942628/LaTex-Tables/assets/153672630/dc54e91d-2b94-4cfa-83fb-d19c4ad5cb6b)
+ 
