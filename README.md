@@ -23,3 +23,8 @@ Brunch "colorizing" wurde entfernt.
 Die "Zeitreise", Versuch Nr.1.
 
 ![image](https://github.com/its-942628/LaTex-Tables/assets/153672630/264d7857-21e9-4458-bbea-d65bcf761323)
+
+Zeitreise erfolgreich:
+![image](https://github.com/its-942628/LaTex-Tables/assets/153672630/59c0917c-4af3-43a7-839e-a0d18dbecdf9)
+
+Nun soll ich irgendwie Back to the Feauture...
