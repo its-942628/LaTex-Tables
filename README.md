@@ -28,3 +28,8 @@ Zeitreise erfolgreich:
 ![image](https://github.com/its-942628/LaTex-Tables/assets/153672630/59c0917c-4af3-43a7-839e-a0d18dbecdf9)
 
 Nun soll ich irgendwie Back to the Feauture...
+
+Ja, es hat funktioniert:
+
+![image](https://github.com/its-942628/LaTex-Tables/assets/153672630/9406bee8-94ec-468a-a58c-b735048a9d5a)
+
