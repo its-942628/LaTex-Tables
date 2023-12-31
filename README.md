@@ -33,3 +33,8 @@ Ja, es hat funktioniert:
 
 ![image](https://github.com/its-942628/LaTex-Tables/assets/153672630/9406bee8-94ec-468a-a58c-b735048a9d5a)
 
+PPrüfung des Status:
+
+![image](https://github.com/its-942628/LaTex-Tables/assets/153672630/9e2672f3-aa28-4536-87f0-baab7844a6f4)
+
+
