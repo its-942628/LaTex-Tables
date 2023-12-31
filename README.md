@@ -8,4 +8,5 @@ So wird die einfachste Tabelle erstellt:
 
 So kann man die Überschrift hinzufügen:
 
-![image](https://github.com/its-942628/LaTex-Tables/assets/153672630/d70779ec-e079-4372-8e9f-f18108d424ff)
+![image](https://github.com/its-942628/LaTex-Tables/assets/153672630/6455c9a2-0a2e-4970-a82d-ab91449bc660)
+
