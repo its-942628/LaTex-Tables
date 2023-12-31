@@ -1,5 +1,8 @@
 \documentclass[a4paper, 12pt]{article}
 
+\usepackage[table]{xcolor}
+
+
 \begin{document}
 Hier werden die unterschiedlichen Arten und Erstellungsmethoden von Tabellen dargestellt.
 
@@ -35,6 +38,17 @@ Es gibt unterschiedliche Zelleneinrichtungen möglich:
     \hline
     Hund & Katze & Maus \\
     \hline
+\end{tabular}
+
+Tabelle mit Farben
+
+\begin{tabular}{|c|c|c|}
+\hline
+\rowcolor{blue!25}
+Spalte 1 & Spalte 2 & Spalte 3 \\
+\hline
+1 & 2 & 3 \\
+\hline
 \end{tabular}
 
 \end{document}
