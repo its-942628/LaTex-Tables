@@ -18,3 +18,4 @@ Wenn den Text eingerichtet wird:
 
  ![image](https://github.com/its-942628/LaTex-Tables/assets/153672630/a8b1a4f1-4a77-4f6e-9e85-0bf01a502805)
 
+Brunch "colorizing" wurde entfernt.
